@@ -1,0 +1,11 @@
+{
+  "name": "rutago",
+  "owner": { "name": "zetadiaz92-sys" },
+  "plugins": [
+    {
+      "name": "fuera-de-ruta",
+      "source": "./fuera-de-ruta",
+      "description": "Agente personal: crea videos con IA (Higgsfield), publica en redes, automatiza y te enseña a monetizar."
+    }
+  ]
+}
